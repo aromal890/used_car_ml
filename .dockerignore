@@ -1,0 +1,8 @@
+car/
+venv/
+__pycache__/
+*.pyc
+.git/
+mlruns/
+logs/
+data/

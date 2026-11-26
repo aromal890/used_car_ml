@@ -1,0 +1,18 @@
+# Virtual environment
+car/
+venv/
+.venv/
+
+# Python & pytest cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local runtime logs & MLflow runs
+logs/
+mlruns/
+prediction_history.csv
+
+# IDE / OS files
+.vscode/
+.DS_Store
